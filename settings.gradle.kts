@@ -21,3 +21,16 @@ dependencyResolutionManagement {
 
 rootProject.name = "AndroidSwissArmyKnife"
 include(":app")
+include(":core")
+include(":domain")
+include(":data")
+include(":features")
+include(":core:core-ui")
+include(":core:core-utils")
+include(":core:core-data")
+include(":data:data-network")
+include(":data:data-db")
+include(":features:feature-authentication")
+include(":features:feature-profile")
+include(":features:feature-settings")
+include(":features:dashboard")
