@@ -20,6 +20,7 @@
             <option value="$PROJECT_DIR$/domain" />
             <option value="$PROJECT_DIR$/features" />
             <option value="$PROJECT_DIR$/features/feature-authentication" />
+            <option value="$PROJECT_DIR$/features/feature-home" />
             <option value="$PROJECT_DIR$/features/feature-profile" />
             <option value="$PROJECT_DIR$/features/feature-settings" />
           </set>
